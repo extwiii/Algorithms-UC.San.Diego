@@ -8,7 +8,7 @@ Data Structures and Algorithms - Coursera
 ## Course 5 - Advanced Algorithms and Complexity
 
 #### Taught by:
-#### Daniel M Kane, Assistant Professor - Department of Computer Science and Engineering / Department of Mathematics
+#### Daniel M Kane, Assistant Professor - Department of Computer Science and Engineering
 #### Pavel Pevzner, Professor - Department of Computer Science and Engineering 
 #### Michael Levin, Lecturer - Computer Science
 #### Neil Rhodes, Adjunct Faculty - Computer Science and Engineering
