@@ -7,6 +7,13 @@ Data Structures and Algorithms - Coursera
 ## Course 4 - Algorithms on Strings
 ## Course 5 - Advanced Algorithms and Complexity
 
+#### Taught by:
+#### Daniel M Kane, Assistant Professor - Department of Computer Science and Engineering / Department of Mathematics
+#### Pavel Pevzner, Professor - Department of Computer Science and Engineering 
+#### Michael Levin, Lecturer - Computer Science
+#### Neil Rhodes, Adjunct Faculty - Computer Science and Engineering
+#### Alexander S. Kulikov, Visiting Professor - Department of Computer Science and Engineering
+
 ### Rating :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon:
 ### Difficulty :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon:
 
