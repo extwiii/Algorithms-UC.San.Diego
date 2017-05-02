@@ -2,6 +2,12 @@
 Data Structures and Algorithms - Coursera
 
 ## Course 1 - Algorithmic Toolbox
+* Welcome
+* Introduction
+* Greedy Algorithms
+* Divide-and-Conquer
+* Dynamic Programming
+
 ## Course 2 - Data Structures
 ## Course 3 - Algorithms on Graphs
 ## Course 4 - Algorithms on Strings
