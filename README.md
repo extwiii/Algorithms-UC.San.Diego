@@ -9,6 +9,8 @@ Data Structures and Algorithms - Coursera
 * Dynamic Programming
 
 ## Course 2 - Data Structures
+* Basic Data Structures
+
 ## Course 3 - Algorithms on Graphs
 ## Course 4 - Algorithms on Strings
 ## Course 5 - Advanced Algorithms and Complexity
