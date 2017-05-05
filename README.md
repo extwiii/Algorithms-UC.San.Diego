@@ -19,6 +19,8 @@ Data Structures and Algorithms - Coursera
   
 * Priority Queues and Disjoint Sets
 * Hash Tables
+* Binary Search Trees
+* Binary Search Trees 2
 
 ## Course 3 - Algorithms on Graphs
 ## Course 4 - Algorithms on Strings
