@@ -18,6 +18,8 @@ Data Structures and Algorithms - Coursera
   * [[Slide 1](https://d3c33hcgiwev3.cloudfront.net/_72d29db2f2280185e66f0a77ada6d61f_05_4_dynamic_arrays_and_amortized_analysis.pdf?Expires=1494115200&Signature=XYqj4qBotjHN7vKk5JFjmsZtqL9cK4bDNbpeatRKyLw0T0Ca4q22-LVj0T0FePdpjNSVtqQbIfoBGozAQTMxcO0K0f6xuPnY09hXnkX~W6SshZcabMbPMjMkUczuxlW8JypA2LOn3SFv3KZ1kraj1qV9mtVDji3VfjvaWRe5dKQ_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)] 
   
 * Priority Queues and Disjoint Sets
+  * [[Slide 1](https://d3c33hcgiwev3.cloudfront.net/_25e504f1689c0b7bd4306ab9c70ddf12_06_1_priority_queues_2_heaps.pdf?Expires=1494115200&Signature=JVK7zrtB2WxtOCSm4EkcAwgN7zPfHp4ShXrWgwPVgbdHdORlAY9xOtLFehxVc3NmMmzW7XPBLC55mYpGOBxa4ZSHh8Dn1JoE9cDIHyBuNR1gqK8tV8GvgIB6f83B0AZdUeBROnekNSEcFYuQrpOET53xjfnV1v-HC5sVU2eELiE_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)] 
+  
 * Hash Tables
 * Binary Search Trees
 * Binary Search Trees 2
