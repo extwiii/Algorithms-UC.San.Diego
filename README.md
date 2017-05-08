@@ -17,6 +17,9 @@ Data Structures and Algorithms - Coursera
 * Binary Search Trees 2 [Notes](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.pdf) - [visualization](http://www.cs.usfca.edu/~galles/visualization/SplayTree.html)
 
 ## Course 3 - Algorithms on Graphs
+* Decomposition of Graphs 1
+* Decomposition of Graphs 2
+
 ## Course 4 - Algorithms on Strings
 ## Course 5 - Advanced Algorithms and Complexity
 
