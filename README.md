@@ -12,7 +12,7 @@ Data Structures and Algorithms - Coursera
 * Basic Data Structures
 * Dynamic Arrays and Amortized Analysis [external video](https://www.youtube.com/watch?v=U5XKyIVy2Vc)
 * Priority Queues and Disjoint Sets [min-heap visualization](http://www.cs.usfca.edu/~galles/visualization/Heap.html) - [tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/disjoint-set-data-structures/)
-* Hash Tables
+* Hash Tables [pdf](https://www.cs.cmu.edu/~dga/15-744/S07/lectures/16-dht.pdf)
 * Binary Search Trees
 * Binary Search Trees 2
 
