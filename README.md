@@ -19,6 +19,8 @@ Data Structures and Algorithms - Coursera
 ## Course 3 - Algorithms on Graphs
 * Decomposition of Graphs 1
 * Decomposition of Graphs 2
+* Paths in Graphs 1
+* Paths in Graphs 2
 
 ## Course 4 - Algorithms on Strings
 ## Course 5 - Advanced Algorithms and Complexity
