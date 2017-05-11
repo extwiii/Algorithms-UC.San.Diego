@@ -21,6 +21,8 @@ Data Structures and Algorithms - Coursera
 * Decomposition of Graphs 2
 * Paths in Graphs 1
 * Paths in Graphs 2
+* Minimum Spanning Trees
+* Advanced Shortest Paths Project (Optional)
 
 ## Course 4 - Algorithms on Strings
 ## Course 5 - Advanced Algorithms and Complexity
