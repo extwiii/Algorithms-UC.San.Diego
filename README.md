@@ -17,7 +17,7 @@ Data Structures and Algorithms - Coursera
 * Binary Search Trees 2 [Notes](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.pdf) - [visualization](http://www.cs.usfca.edu/~galles/visualization/SplayTree.html)
 
 ## Course 3 - Algorithms on Graphs
-* Decomposition of Graphs 1
+* Decomposition of Graphs 1 [Section on graph representation ](https://www.khanacademy.org/computing/computer-science/algorithms/graph-representation/a/describing-graphs) - [Depth-first search](http://www.cs.usfca.edu/~galles/visualization/DFS.html)
 * Decomposition of Graphs 2
 * Paths in Graphs 1
 * Paths in Graphs 2
