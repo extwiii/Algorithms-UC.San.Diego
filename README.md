@@ -25,6 +25,8 @@ Data Structures and Algorithms - Coursera
 * Advanced Shortest Paths Project (Optional) [visualizations](https://www.youtube.com/watch?v=DINCL5cd_w0) - [A* search algorithm ](https://en.wikipedia.org/wiki/A*_search_algorithm)
 
 ## Course 4 - Algorithms on Strings
+* Suffix Trees
+
 ## Course 5 - Advanced Algorithms and Complexity
 
 #### Taught by:
