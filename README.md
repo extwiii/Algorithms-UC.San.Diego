@@ -21,7 +21,7 @@ Data Structures and Algorithms - Coursera
 * Decomposition of Graphs 2 [DFS](http://www.cs.usfca.edu/~galles/visualization/TopoSortDFS.html) - [Indegree](http://www.cs.usfca.edu/~galles/visualization/TopoSortIndegree.html) - [Connected Components](http://www.cs.usfca.edu/~galles/visualization/ConnectedComponent.html)
 * Paths in Graphs 1 [Breadth-first search ](http://www.cs.usfca.edu/~galles/visualization/BFS.html)
 * Paths in Graphs 2 [Dijkstra'a algorithm ](http://www.cs.usfca.edu/~galles/visualization/Dijkstra.html)
-* Minimum Spanning Trees
+* Minimum Spanning Trees [Kruskal's algorithm](http://www.cs.usfca.edu/~galles/visualization/Kruskal.html)
 * Advanced Shortest Paths Project (Optional)
 
 ## Course 4 - Algorithms on Strings
