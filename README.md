@@ -20,7 +20,7 @@ Data Structures and Algorithms - Coursera
 * Decomposition of Graphs 1 [Section on graph representation ](https://www.khanacademy.org/computing/computer-science/algorithms/graph-representation/a/describing-graphs) - [Depth-first search](http://www.cs.usfca.edu/~galles/visualization/DFS.html)
 * Decomposition of Graphs 2 [DFS](http://www.cs.usfca.edu/~galles/visualization/TopoSortDFS.html) - [Indegree](http://www.cs.usfca.edu/~galles/visualization/TopoSortIndegree.html) - [Connected Components](http://www.cs.usfca.edu/~galles/visualization/ConnectedComponent.html)
 * Paths in Graphs 1 [Breadth-first search ](http://www.cs.usfca.edu/~galles/visualization/BFS.html)
-* Paths in Graphs 2
+* Paths in Graphs 2 [Dijkstra'a algorithm ](http://www.cs.usfca.edu/~galles/visualization/Dijkstra.html)
 * Minimum Spanning Trees
 * Advanced Shortest Paths Project (Optional)
 
