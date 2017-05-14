@@ -22,7 +22,7 @@ Data Structures and Algorithms - Coursera
 * Paths in Graphs 1 [Breadth-first search ](http://www.cs.usfca.edu/~galles/visualization/BFS.html)
 * Paths in Graphs 2 [Dijkstra'a algorithm ](http://www.cs.usfca.edu/~galles/visualization/Dijkstra.html)
 * Minimum Spanning Trees [Kruskal's algorithm](http://www.cs.usfca.edu/~galles/visualization/Kruskal.html)
-* Advanced Shortest Paths Project (Optional)
+* Advanced Shortest Paths Project (Optional) [visualizations](https://www.youtube.com/watch?v=DINCL5cd_w0)
 
 ## Course 4 - Algorithms on Strings
 ## Course 5 - Advanced Algorithms and Complexity
