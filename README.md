@@ -26,6 +26,7 @@ Data Structures and Algorithms - Coursera
 
 ## Course 4 - Algorithms on Strings
 * Suffix Trees
+* Burrows-Wheeler Transform and Suffix Arrays
 
 ## Course 5 - Advanced Algorithms and Complexity
 
