@@ -28,6 +28,7 @@ Data Structures and Algorithms - Coursera
 * Suffix Trees
 * Burrows-Wheeler Transform and Suffix Arrays
 * Knuth–Morris–Pratt Algorithm
+* Constructing Suffix Arrays and Suffix Trees
 
 ## Course 5 - Advanced Algorithms and Complexity
 
