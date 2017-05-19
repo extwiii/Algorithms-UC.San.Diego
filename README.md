@@ -27,7 +27,7 @@ Data Structures and Algorithms - Coursera
 ## Course 4 - Algorithms on Strings
 * Suffix Trees
 * Burrows-Wheeler Transform and Suffix Arrays
-* Knuth–Morris–Pratt Algorithm
+* Knuth–Morris–Pratt Algorithm [Knuth-Morris-Pratt algorithm](http://algo-visualizer.jasonpark.me/#path=string/knuth_morris_pratt/substring_search)
 * Constructing Suffix Arrays and Suffix Trees
 
 ## Course 5 - Advanced Algorithms and Complexity
