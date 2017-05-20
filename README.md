@@ -31,6 +31,8 @@ Data Structures and Algorithms - Coursera
 * Constructing Suffix Arrays and Suffix Trees
 
 ## Course 5 - Advanced Algorithms and Complexity
+* Flows in Networks
+
 
 #### Taught by:
 #### Daniel M Kane, Assistant Professor - Department of Computer Science and Engineering
