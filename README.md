@@ -32,6 +32,7 @@ Data Structures and Algorithms - Coursera
 
 ## Course 5 - Advanced Algorithms and Complexity
 * Flows in Networks
+* Linear Programming
 
 
 #### Taught by:
