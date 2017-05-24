@@ -33,7 +33,7 @@ Data Structures and Algorithms - Coursera
 ## Course 5 - Advanced Algorithms and Complexity
 * Flows in Networks
 * Linear Programming
-
+* NP-complete Problems
 
 #### Taught by:
 #### Daniel M Kane, Assistant Professor - Department of Computer Science and Engineering
