@@ -34,6 +34,7 @@ Data Structures and Algorithms - Coursera
 * Flows in Networks
 * Linear Programming
 * NP-complete Problems
+* Coping with NP-completeness
 
 #### Taught by:
 #### Daniel M Kane, Assistant Professor - Department of Computer Science and Engineering
