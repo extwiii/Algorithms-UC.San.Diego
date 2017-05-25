@@ -35,6 +35,7 @@ Data Structures and Algorithms - Coursera
 * Linear Programming
 * NP-complete Problems
 * Coping with NP-completeness
+* Streaming Algorithms (Optional)
 
 #### Taught by:
 #### Daniel M Kane, Assistant Professor - Department of Computer Science and Engineering
