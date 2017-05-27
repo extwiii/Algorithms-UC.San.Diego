@@ -33,7 +33,7 @@ Data Structures and Algorithms - Coursera
 ## Course 5 - Advanced Algorithms and Complexity
 * Flows in Networks
 * Linear Programming
-* NP-complete Problems
+* NP-complete Problems [The international SAT Competitions](http://satcompetition.org/)
 * Coping with NP-completeness
 * Streaming Algorithms (Optional)
 
