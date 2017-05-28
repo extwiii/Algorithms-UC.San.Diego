@@ -1,4 +1,4 @@
-# Algorithms-UC.San.Diego
+# Algorithms-UC.San.Diego :white_check_mark:
 Data Structures and Algorithms - Coursera
 
 ## Course 1 - Algorithmic Toolbox
